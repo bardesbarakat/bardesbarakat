@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Bardes Barakat
 
-**Technical Lead & Senior Software Engineer** with over 17 years of professional tenure and leadership at Fayoum University[cite: 4], specializing in enterprise application development, backend architecture (.NET Core), and cross-domain system automation. Highly adaptable with a strong passion for continuous learning, rapid technology adoption, and delivering high-impact solutions in **remote** environments.
+**Technical Lead &  Software Engineer** with over 17 years of professional tenure and leadership at Fayoum University[cite: 4], specializing in enterprise application development, backend architecture (.NET Core), and cross-domain system automation. Highly adaptable with a strong passion for continuous learning, rapid technology adoption, and delivering high-impact solutions in **remote** environments.
 
 ---
 
